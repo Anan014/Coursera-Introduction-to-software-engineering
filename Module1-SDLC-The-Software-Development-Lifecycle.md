@@ -44,3 +44,8 @@ This module provides an overview of software engineering. It covers the software
 
 ### **Plugin Activity (15 minutes)**
 - **Activity: Phases in the SDLC** *(15 min)*
+
+
+<!-- Done -->
+<!-- The Software Building Process and Associated Roles -->
+<!-- Module Summary and Graded Quiz -->
