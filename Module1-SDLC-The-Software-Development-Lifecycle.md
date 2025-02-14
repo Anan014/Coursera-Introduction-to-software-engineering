@@ -48,4 +48,5 @@ This module provides an overview of software engineering. It covers the software
 
 <!-- Done -->
 <!-- The Software Building Process and Associated Roles -->
-<!-- Module Summary and Graded Quiz -->
+<!-- Module Summary -->
+<!-- Graded Quiz -->
