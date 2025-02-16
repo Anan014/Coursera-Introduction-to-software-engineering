@@ -46,3 +46,6 @@ This module introduces key concepts in application development. It covers:
 
 ### **Plugin (Total: 15 minutes)**
 - **Activity:** Categorizing Front- and Back-End Technologies (15 min)  
+
+<!-- Done -->
+<!-- Introduction to Development -->
